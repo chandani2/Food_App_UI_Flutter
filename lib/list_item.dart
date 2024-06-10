@@ -20,7 +20,7 @@ class ListItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       child: SizedBox(
-        height: 1000,
+        height: 500,
         width: double.infinity,
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
